@@ -1,0 +1,42 @@
+---
+title: "Recommenders_Assignment"
+author: "Andreina A"
+date: "2024-11-16"
+output: html_document
+---
+
+
+## Recommender Intro
+
+A recommender systems is an artifical Intelligence system used to make suggest to customers based on their interactive behavior and patterns, which works by gathering the customers interactive data, storing the data, analyzing the data with machine learing to detect a pattern, filtering the data by applying certain mathematical rules and formulas to show most relevant items to the customers, and lastly refining the data (optional step) by continuously finding ways to enchance the accuracy of the recommendaitons to the customers. Knowing how recomender system works I would like to analyze the recommender system for Instagram (IG), which is a social media website/application controlled by Meta to contact with people and share videos and photos, now to even sell products/services. I use Instagram and I find myself asking how did I end up with these types of suggestions on my feedback, I mean it only took me to click on view of dogs to watch the full reel and now I have a bunch of videos of dogs as a suggestions. In my opinion their Recommendation engine is very senstiive and overstimulated.
+
+### Scenario Design
+
+**Target User:**
+Instagram target users would be their current and new users.
+
+
+**Key goals:**
+The goal would be to find ways to retain their current users to avoid losing users. According to Instagram their goal is to make recomendaiotns to users that are relevant and valuable to each person, basically personalized relevant suggestions.
+
+**Reverse Engineer:**
+Instagram makes sure to suggest content that are safe by removing content that discuss suicide/self-harm, content that may depict violence, content that may be sexually explicit, content that may suggets certain prodcuts like tobacco/vaping, and content from non-recommendable accounts. Instagram also marks items are may be misleading to alert the viewers that the content may be false, even on vaccine related misinformation. The predictios model used in instagram are made up of the prediction they make and their input signals which are dynamic, the recommender system is changed over times as Meta's products are modified. Meta product's logic is to personalize recommendaitons based on activity becasue not everyone has the same interest and people's interest can change overtime. According to Meta several AL systems may work to together o to suggest content, for example what people see in their feed is supposed to be a balanced combinatinatio of outputs from the AI sytems and advertisements.
+
+
+**Suggestion to accomplish goals:**
+Although Instagram seem to have it all solved, there are two suggestion I would have to provide more transparency to their users because as an Instagram user myself I don't trust them because I feel that they aren't just using my behavior on instagram to recommed content to me as sometimes I just mention something over a phone conversation like a skirt and voilà instagram show me people reviewing skirts from Zara. Secondly, they should try to avoid algorithmic bias where they suggest more content that are related to my likes but what if I no longer want to see that I want something new that has nothing to do with my previous interest or with what everyone likes today (for example the fight with Mike Tyson and Jake Paul or just recommending a bunch of dog videos). I would suggest to store less data on the customers to avoid bias and to avoid losing trust from the users.
+
+
+## Conclusion
+Overall instagram has a very interest and complex recommendation system which seems to work for their purpose of personalizing suggests but personalized suggests aren't always the answers in social media some times it is best to have some personal interest out of social media. Instagram should allow users to have some privacy, and should work on 30% personalizing suggest and 70% should just be a mix of current events, location, popular, and non popular posts to allow new users to be seen as well and not just content from people with more than 1,000 likes to avoid bias.
+
+
+## Citations
+
+Caballar,R. & Stryker, C. (2024, June 19). Whats is a recommendation engine? https://www.ibm.com/think/topics/recommendation-engine
+
+Nawleprof, A. (2024, April 25). Case study:Instagram Recommendation Algorithm
+
+Instagram. https://help.instagram.com/313829416281232
+
+Meta.(updated 2023, December 31) https://transparency.meta.com/features/explaining-ranking

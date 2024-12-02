@@ -8,7 +8,7 @@ output: html_document
 
 ## Recommender Intro
 
-A recommender systems is an artifical Intelligence system used to make suggest to customers based on their interactive behavior and patterns, which works by gathering the customers interactive data, storing the data, analyzing the data with machine learing to detect a pattern, filtering the data by applying certain mathematical rules and formulas to show most relevant items to the customers, and lastly refining the data (optional step) by continuously finding ways to enchance the accuracy of the recommendaitons to the customers. Knowing how recomender system works I would like to analyze the recommender system for Instagram (IG), which is a social media website/application controlled by Meta to contact with people and share videos and photos, now to even sell products/services. I use Instagram and I find myself asking how did I end up with these types of suggestions on my feedback, I mean it only took me to click on view of dogs to watch the full reel and now I have a bunch of videos of dogs as a suggestions. In my opinion their Recommendation engine is very senstiive and overstimulated.
+A recommender systems is an artifical Intelligence system used to make suggest to customers based on their interactive behavior and patterns, which works by gathering the customers interactive data, storing the data, analyzing the data with machine learing to detect a pattern, filtering the data by applying certain mathematical rules and formulas to show most relevant items to the customers, and lastly refining the data (optional step) by continuously finding ways to enchance the accuracy of the recommendaitons to the customers. Knowing how recomender system works I would like to analyze the recommender system for Instagram (IG), which is a social media website/application controlled by Meta to contact with people and share videos and photos, now to even sell products/services. I use Instagram and I find myself asking how did I end up with these types of suggestions on my feedback, I mean it only took me to click on view of dogs to watch the full reel and now I have a bunch of videos of dogs as a suggestions. Instagram uses collaboration filter as a recommender system, since they recommend content based on the user's behavior and interaction with instagrams contents. For example, instagram may recommend a post that is closely related to a post the user liked previously.  In my opinion their Recommendation engine is very senstive and overstimulated.
 
 ### Scenario Design
 
@@ -35,7 +35,7 @@ Overall instagram has a very interest and complex recommendation system which se
 
 Caballar,R. & Stryker, C. (2024, June 19). Whats is a recommendation engine? https://www.ibm.com/think/topics/recommendation-engine
 
-Nawleprof, A. (2024, April 25). Case study:Instagram Recommendation Algorithm
+Nawleprof, A. (2024, April 25). Case study:Instagram Recommendation Algorithm. https://medium.com/@aditya.nawaleprof2/case-study-instagram-recommendation-algorithm-ba1fc282eed6
 
 Instagram. https://help.instagram.com/313829416281232
 
